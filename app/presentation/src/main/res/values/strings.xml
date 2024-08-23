@@ -1,0 +1,25 @@
+<resources>
+    <string name="search_user_title">Search User</string>
+    <string name="error_title">Error</string>
+    <string name="unauthorized_error">You need permission to access this</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_ok">OK</string>
+    <string name="common_retry">Retry</string>
+
+
+    <string name="empty_user_list">No users found</string>
+    <string name="user_name_hint">User name</string>
+    <string name="btn_search">Search</string>
+    <string name="min_characters_error">Min characters allowed are 4</string>
+    <string name="max_characters_error">Max characters allowed 20</string>
+    <string name="user_detail_title">User Details</string>
+    <string name="iv_description_user_image">userImage</string>
+    <string name="search_user_code_error">Error while searching users.Code %s</string>
+    <string name="search_user_unknown_error">Error while searching user with unknown causes</string>
+    <string name="get_user_info_unknown_error">Error retrieving user info. Unknown causes</string>
+    <string name="get_user_info_code_error">Error retrieving user info. Code: %s</string>
+    <string name="user_company">Company: %s</string>
+    <string name="user_email">Email: %s</string>
+    <string name="user_name">Real name: %s</string>
+    <string name="user_twitter">Twitter/X: %s</string>
+</resources>
